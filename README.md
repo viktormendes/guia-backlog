@@ -35,7 +35,7 @@ Utilizamos o GitHub Projects como quadro Kanban para gerenciamento ágil.
 
 ---
 
-## 📂 Documentação
+## 📂 Backlog
 
 - 📄 [Product Backlog (completo)](https://docs.google.com/document/d/1Ezuo2wDUqEaXjwmAvmiyP5tVljQip12Q3Oe1R3UtXBM/edit?usp=sharing)
 
