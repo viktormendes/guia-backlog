@@ -7,18 +7,15 @@
 - Início rápido da rota até um destino (ex: “Biblioteca”)
 - Narração por voz com instruções passo a passo
 - Integração com TTS (Text-to-Speech)
-- Suporte a múltiplos idiomas
 
 ### US1.2 - Mapear ambientes internos para permitir navegação precisa
 **Funcionalidades:**
 - Interface para cadastro de salas, corredores, elevadores etc.
-- Upload de mapas e definição de rotas
 - Definição de obstáculos fixos e móveis
 - Sincronização de mapas com dispositivos móveis
 
 ### US1.3 - Receber alertas de obstáculos no caminho
 **Funcionalidades:**
-- Detecção de obstáculos com câmera ou sensores
 - Alertas por voz e vibração
 - Atualização em tempo real de obstáculos temporários
 
@@ -129,10 +126,10 @@
 ### US6.1 - Fazer login com e-mail ou conta institucional
 **Funcionalidades:**
 - Login por e-mail/senha
-- Login com Google/Microsoft
+- Login com Google
 - Recuperação de senha
 
-### 🧑‍🦯 US6.2 - Acessar sistema com leitor de tela e comandos por voz
+### US6.2 - Acessar sistema com leitor de tela e comandos por voz
 **Funcionalidades:**
 - Compatibilidade com leitores (VoiceOver, TalkBack)
 - Botões com contraste alto e acessibilidade
